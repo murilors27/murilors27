@@ -9,7 +9,7 @@ Sou um desenvolvedor de software apaixonado por [tecnologia/área específica].
 
 ## 🌟 Projetos em Destaque
 - [Ocean-Eye](https://github.com/murilors27/Ocean-Eye): Site de apresentação do drone Ocean-Eye, Drone Subaquático responsável pela inspeção marinha. Projeto desenvolvido para faculdade, utilizando HTML e CSS.
-- [OpalaVision]([link](https://github.com/murilors27/cs3-frontend)): Site de apresentação do OpalaVision, sensor conectado ao carro, usado para facilitar a manutenção, detectando problemas com antecedência.
+- [OpalaVision](https://github.com/murilors27/cs3-frontend): Site de apresentação do OpalaVision, sensor conectado ao carro, usado para facilitar a manutenção, detectando problemas com antecedência.
 Projeto desenvolvido para faculdade, utilizando React, Typescript e CSS.
 
 ## 🎯 Interesses
