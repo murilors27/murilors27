@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor de software apaixonado pela tecnologia.</p>
+<p align="left">Sou um desenvolvedor de software apaixonado pela tecnologia.<br><br> • Possuo habilidades principalmente em HTML, CSS, JavaScript e React.<br><br>• Capacidade de comunicação global, tendo obtido nível B2 - First, no Exame FCE (Cambridge First Certificate).</p>
 
 ###
 
-<h3 align="left">Linguagens mais utilizadas:</h3>
+<h2 align="left">Linguagens mais utilizadas:</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">Status:</h3>
+<h2 align="left">Status:</h2>
 
 ###
 
@@ -37,7 +37,15 @@
 
 ###
 
-<h3 align="left">Redes:</h3>
+<h2 align="left">Competências:</h2>
+
+###
+
+<p align="left">• Inglês Avançado<br>• Desenvolvimento de Sistemas<br>• Comunicação</p>
+
+###
+
+<h2 align="left">Redes:</h2>
 
 ###
 
