@@ -37,14 +37,6 @@
 
 ###
 
-<h2 align="left">Competências:</h2>
-
-###
-
-<p align="left">• Inglês Avançado<br>• Desenvolvimento de Sistemas<br>• Comunicação</p>
-
-###
-
 <h2 align="left">Redes:</h2>
 
 ###
