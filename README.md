@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• Desenvolvedor de interfaces em front-end e com experiência em back-end.<br><br>• Capacidade de comunicação global, tendo obtido nível B2 - First, no Exame FCE (Cambridge First Certificate).</p>
+<p align="left">• Desenvolvedor de interfaces em front-end, com experiência em back-end.<br><br>• Capacidade de comunicação global, tendo obtido nível B2 - First, no Exame FCE (Cambridge First Certificate).</p>
 
 ###
 
